@@ -1,0 +1,14 @@
+'''
+y=[10,20,30]
+x=y.copy()
+y[2]=100
+print(x)
+print(y)
+'''
+x=[10,20,30]
+y=x
+x[1]=50
+print(x)
+print(Y)
+print(id(x))
+print(id(y))

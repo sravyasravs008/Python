@@ -1,0 +1,11 @@
+s1={}
+s2={1,4,7,9}
+s3=set([10,20,30])
+print(s1)
+print(s2)
+print(type(s3))
+ename="sravya"
+s4=set(ename[:])
+print((s4))
+s5=ename.split()
+print(s5)

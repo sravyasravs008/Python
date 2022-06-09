@@ -1,0 +1,10 @@
+ename="gandhi"
+a=20
+is_Avail=True
+c=20+10j
+b=bin(4)
+print(id(b))
+print(id(ename))
+print(id(a))
+print(id(is_Avail))
+print(id(c))

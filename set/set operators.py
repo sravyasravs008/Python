@@ -1,0 +1,9 @@
+s=set()
+print(s)
+s.add(2)
+s.add(4)
+s.add(7)
+l=[30,40,50]
+print(s)
+s.update(l)
+print(s)
